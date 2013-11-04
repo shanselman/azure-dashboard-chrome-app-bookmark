@@ -12,7 +12,6 @@
     	],
         "launch": {
         	"web_url": "https://manage.windowsazure.com/"
-       
         }
     }
 }
