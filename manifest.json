@@ -1,0 +1,18 @@
+﻿{
+	"manifest_version": 2,
+    "name": "Windows Azure Portal",
+    "description": "The Windows Azure Management Portal",
+    "version": "0.95",
+    "icons": {
+    	"128": "128.png"
+    },
+    "app": {
+    	"urls": [
+            "https://manage.windowsazure.com/"
+    	],
+        "launch": {
+        	"web_url": "https://manage.windowsazure.com/"
+       
+        }
+    }
+}
