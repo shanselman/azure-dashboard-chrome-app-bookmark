@@ -1,0 +1,14 @@
+﻿{
+  "appName": {
+    "message": "Windows Azure Portal",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "The Windows Azure Management Portal", 
+    "description":"The description of the application, displayed in the web store."
+  },
+  "appShortName": {
+  "message": "Azure Portal", 
+  "description":"The short name of the application, displayed in the web store."
+  }
+}

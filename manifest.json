@@ -1,7 +1,9 @@
 ﻿{
 	"manifest_version": 2,
-    "name": "Windows Azure Portal",
-    "description": "The Windows Azure Management Portal",
+    "default_locale": "en",
+	"name": "__MSG_appName__",
+    "description": "__MSG_appDesc__",
+    "short_name": "__MSG_appShortName__",
     "version": "0.95",
     "icons": {
     	"128": "128.png"
